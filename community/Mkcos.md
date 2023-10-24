@@ -6,7 +6,7 @@ Olá! Estou iniciando no desenvolvimento web. Dentre meus vários interesses, go
 ## Conecte-se com migo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-108?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](linkedin.com/in/antônio-marcos-silva-de-lima-78862b20b)
 
-[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](+https://github.com/SEUUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHbt-001?style=for-the-badge&logo=github&logoColor=white)](+https://github.com/SEUUSERNAME)
 
 ## Habilidades
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mkcos&layout=compact&bg_color=011&border_color=000&title_color=E94D5F&text_color=FFF)
